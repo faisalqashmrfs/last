@@ -2,6 +2,7 @@ import './Hero.css';
 import trainingFile from './../../assets/Training-file/X-academy-2024-V.7-Syria.pdf';
 import { useEffect, useState } from 'react';
 import axios from 'axios';
+import { Link } from 'react-router-dom';
 
 
 export const HeroXacademy = () => {
@@ -30,7 +31,7 @@ export const HeroXacademy = () => {
           <p className='alpraragraph1'>In focal X agency We believe that every human need second chance, Every trainee is our partner, and hand in hand we are here to build something different and special.</p>
           <p className='alpraragraph2'>In focal X agency We believe that <br /> every human need second chance, <br /> Every trainee is our partner, <br /> and hand in hand we are here to build <br /> something different and special.</p>
           <div className='HeroLogin'>
-            <button>Login</button>
+            <Link target='_blank' to={"https://xacademy-recording-platform.focal-x.com/"}><button>Login</button></Link>
             <a href={trainingFile} download="X academy 2024 V.7 Syria.pdf">Download training file</a>
           </div>
         </div>

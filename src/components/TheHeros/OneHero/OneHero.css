@@ -10,8 +10,8 @@
 .Heros-Cards .OneHeroCard
 {
     position: relative;
-    width: 390px ;
-    height: 395px;
+    width: 320px ;
+    height: 325px;
     border-radius: 14px;
     box-shadow: 200 -72px 56px 200 rgba(0, 0, 0, 0.25) inset;
 }
