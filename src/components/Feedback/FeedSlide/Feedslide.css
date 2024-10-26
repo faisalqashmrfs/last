@@ -3,10 +3,6 @@
   margin-top: 70px;
   height: 400px !important;
 }
-.FB-slider img
-{
-  height: 251px;
-}
 .fdsdfdsd12edsawed
 {
   display: none;
@@ -18,7 +14,12 @@
   padding-top: 50px;
   height: 350px;
 }
-
+.centermodeimg
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 @media(max-width:800px)
 {
   .FB-slider

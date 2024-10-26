@@ -12,7 +12,7 @@ const CounterCell = ({ initialValue, inView }) => {
       const timer = setInterval(() => {
         setCount((prevCount) => {
           if (prevCount < initialValue) {
-            return prevCount + 1;
+            return prevCount + 15;
           } else {
             clearInterval(timer);
             return prevCount;

@@ -73,56 +73,56 @@ export default function CenterMode2() {
                 <Slider {...settings1}>
                     {
                         data.map((e, index) => (
-                            <div>
+                            <div className="centermodeimg">
                                 <img src={e.image} alt="FeedBack" />
                             </div>
                         ))
                     }
                     {
                         data.map((e, index) => (
-                            <div>
+                            <div className="centermodeimg">
                                 <img src={e.image} alt="FeedBack" />
                             </div>
                         ))
                     }
                     {
                         data.map((e, index) => (
-                            <div>
+                            <div className="centermodeimg">
                                 <img src={e.image} alt="FeedBack" />
                             </div>
                         ))
                     }
                     {
                         data.map((e, index) => (
-                            <div>
+                            <div className="centermodeimg">
                                 <img src={e.image} alt="FeedBack" />
                             </div>
                         ))
                     }
                     {
                         data.map((e, index) => (
-                            <div>
+                            <div className="centermodeimg">
                                 <img src={e.image} alt="FeedBack" />
                             </div>
                         ))
                     }
                     {
                         data.map((e, index) => (
-                            <div>
+                            <div className="centermodeimg">
                                 <img src={e.image} alt="FeedBack" />
                             </div>
                         ))
                     }
                     {
                         data.map((e, index) => (
-                            <div>
+                            <div className="centermodeimg">
                                 <img src={e.image} alt="FeedBack" />
                             </div>
                         ))
                     }
                     {
                         data.map((e, index) => (
-                            <div>
+                            <div className="centermodeimg">
                                 <img src={e.image} alt="FeedBack" />
                             </div>
                         ))
@@ -133,42 +133,42 @@ export default function CenterMode2() {
                 <Slider {...settings}>
                     {
                         data.map((e, index) => (
-                            <div>
+                            <div className="centermodeimg">
                                 <img src={e.image} alt="FeedBack" />
                             </div>
                         ))
                     }
                     {
                         data.map((e, index) => (
-                            <div>
+                            <div className="centermodeimg">
                                 <img src={e.image} alt="FeedBack" />
                             </div>
                         ))
                     }
                     {
                         data.map((e, index) => (
-                            <div>
+                            <div className="centermodeimg">
                                 <img src={e.image} alt="FeedBack" />
                             </div>
                         ))
                     }
                     {
                         data.map((e, index) => (
-                            <div>
+                            <div className="centermodeimg">
                                 <img src={e.image} alt="FeedBack" />
                             </div>
                         ))
                     }
                     {
                         data.map((e, index) => (
-                            <div>
+                            <div className="centermodeimg">
                                 <img src={e.image} alt="FeedBack" />
                             </div>
                         ))
                     }
                     {
                         data.map((e, index) => (
-                            <div>
+                            <div className="centermodeimg">
                                 <img src={e.image} alt="FeedBack" />
                             </div>
                         ))

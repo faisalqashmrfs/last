@@ -81,7 +81,7 @@ const Hosting = () => {
             </div>
             <div className="hostFooter">
                 <p className='footerHosting'>Support all the features of personal websites, corporate sites, news and commercial sites with 24 hours technical support. </p>
-                <p className='footerHf'>Go Online, choose your plan and Contact us on: <span className='conHost'> contact@focal-x.com</span> <a href="">|</a> <span className='conHost'>+963 935 033 139</span></p>
+                <p className='footerHf'>Go Online, choose your plan and Contact us on: <span className='conHost'> contact@focal-x.com</span> <a href="">|</a> <span className='conHost'>+963 953 666 056</span></p>
             </div>
         </section>
     )
