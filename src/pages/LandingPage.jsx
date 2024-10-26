@@ -268,7 +268,7 @@ const LandingPage = () => {
                 </div>
             </div>
             <div className='mt-[1.06rem] pb-[1.44rem] flex flex-wrap lg:gap-0 gap-4 justify-between items-center'>
-                 <p className='text-white foterfocalx'>&copy; <span className='pl-[0.38rem]'>2021 - 2023 focal X L.L.C All Right Reserved</span></p>
+                 <p className='text-white foterfocalx'>&copy; <span className='pl-[0.38rem]'>2021 - 2024 focal X L.L.C All Right Reserved</span></p>
                  <hr className='text-white w-[66.9%]' />
             </div>
         </footer>
