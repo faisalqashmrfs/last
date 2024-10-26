@@ -105,11 +105,11 @@
   position: absolute;
   width: 683px;
   height: 100%;
-  background-image:url(./../../assets/image/Trainers.png);
+  background-image:url(./../../assets/image/Trainers123.png);
   background-repeat: no-repeat;
   background-size: contain;
   top: 100px;
-  right: 0;
+  right: -50px;
   z-index: -11;
 }
 .XA-Heroback2-orang

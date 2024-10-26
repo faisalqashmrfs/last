@@ -11,8 +11,4 @@ ReactDOM.createRoot(document.getElementById('root')).render(
       <App />
     </BrowserRouter>
   </React.StrictMode>
-
 )
-
-// "react-slick": "^0.30.1",
-// "slick-carousel": "^1.8.1",
