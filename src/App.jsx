@@ -9,7 +9,7 @@ import Cirnew from './components/Cirnew/Cirnew'
 function App() {
   return (
     <>
-    <Routes>s
+    <Routes>
       <Route path='/' element={ <LandingPage />}/>
       <Route path='/AcademyPage' element={ <AcademyPage />}/>
       <Route path='/AcademyPage/Certificate' element={ <Cirnew />}/>
